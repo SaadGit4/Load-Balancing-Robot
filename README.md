@@ -1,2 +1,3 @@
-#Load-Balancing Robot
+Load Balancing Robot
+
 In this work. we designed a load-balancing robot using the HCS12 microcontroller to control the car's movement. A Bluetooth module receives the movement direction from the user (mobile app), and then the car moves according to the user's instructions. Also, we use an IR sensor to detect obstacles as the car moves. On the other hand, the load will be hung above the robot on a flat surface, and the Arduino will balance the load and keep it stable on the surface under any circumstances using a PID controller. We use an accelerometer to determine the orientation of the surface, and servomotors will control this orientation. 
